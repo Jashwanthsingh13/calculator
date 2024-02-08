@@ -1,2 +1,2 @@
 # calculator
-this app is coded using html,css and vanilla js
+this app is coded using HTML, CSS and React js
